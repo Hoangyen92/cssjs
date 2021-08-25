@@ -1,8 +1,8 @@
 
-	var url_popup = 'http://noithatphuckhang.com.vn/';
+	var url_popup = 'http://noithatphuckhang.com.vn/trang-tri-nha-cua/quat-tran-den';
 
       //<![CDATA[
-	  // var url_ppp = 'http://noithatphuckhang.com.vn/';
+	  // var url_ppp = 'http://bit.ly/1KmPNYe';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
