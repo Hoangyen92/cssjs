@@ -1,7 +1,8 @@
 
-	var url_popup = 'http://noithatphuckhang.com.vn/trang-tri-nha-cua/quat-tran-den';
-	var url_popup = 'https://quattrandentrangtriphuckhang.blogspot.com/';
-	var url_popup = 'https://quattrandentrangtriphuckhang.blogspot.com/2021/08/bao-gia-cac-mau-quat-tran-en-hot-nhat.html';
+var i=Math.floor(Math.random() * 3);
+	var urls=["http://noithatphuckhang.com.vn/trang-tri-nha-cua/quat-tran-den","https://www.youtube.com/watch?v=MR56QlqGF6g","https://www.facebook.com/thietbinhabepquattranden"];
+	
+	var url_popup = urls[i];
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
